@@ -1,0 +1,32 @@
+aid: brave-newcoin
+name: Brave NewCoin
+description: "Real-time and historic crypto data from more than 200+ exchanges"
+url: https://bravenewcoin.com/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Brave NewCoin
+    description: "Real-time and historic crypto data from more than 200+ exchanges"
+    humanURL: https://bravenewcoin.com/developers
+    baseURL: https://bravenewcoin.com/developers
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://bravenewcoin.com/developers
+common:
+  - type: Website
+    url: https://bravenewcoin.com/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
