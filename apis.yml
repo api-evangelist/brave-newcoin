@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://bravenewcoin.com/developers
 common:
+  - type: DomainSecurity
+    url: security/brave-newcoin-domain-security.yml
   - type: Website
     url: https://bravenewcoin.com/developers
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://bravenewcoin.com/rss/insights
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
